@@ -1,0 +1,15 @@
+programa {
+	funcao inicio() {
+		
+		/*3. Faça uma cópia do exercício anterior e o modifique o para mostrar os números um
+        ao lado do outro.*/
+		
+		para(inteiro i=20; i>0; i--){
+		
+		escreva(i, ", ")
+	
+	}
+	    escreva("0")
+	}
+	
+}
